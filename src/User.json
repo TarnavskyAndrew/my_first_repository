@@ -1,0 +1,25 @@
+{
+  "Person": {
+    "firstName": "Tom",
+    "lastName": "Preston",
+    "gender": "male",
+    "age": "30",
+    "birthDay": "07.02.1992",
+    "married": "false",
+    "bloodType": "null"
+  },
+  "Address": {
+    "country": "Ukrain",
+    "city": "Kiev",
+    "zip": 25545,
+    "postal": true
+  },
+  "Work": {
+    "Profession": "AQA Egineer",
+    "Place of work": "Global Lodgic"
+  },
+  "Other": {
+    "hobby": ["basketball", "reading", "swimming"],
+    "dog": "true"
+  }
+}
