@@ -3,13 +3,13 @@
     <lastName>Preston</lastName>
     <gender>male</gender>
     <age>30</age>
-    <birthDay>07.02.1992</birthDay>
+    <birthDay>"07.02.1992"</birthDay>
     <married>false</married>
     <bloodType>null</bloodType>
     <Adress>
         <country>Ukraine</country>
         <city>Kiev</city>
-        <zip>25545</zip>
+        <zip>"25545"</zip>
         <postal>true</postal>
     </Adress>
     <Work>
