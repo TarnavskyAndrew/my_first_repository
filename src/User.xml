@@ -1,0 +1,27 @@
+<Person>
+    <firstName>Tom</firstName>
+    <lastName>Preston</lastName>
+    <gender>male</gender>
+    <age>30</age>
+    <birthDay>07.02.1992</birthDay>
+    <married>false</married>
+    <bloodType>null</bloodType>
+    <Adress>
+        <country>Ukrain</country>
+        <city>Kiev</city>
+        <zip>25545</zip>
+        <postal>true</postal>
+    </Adress>
+    <Work>
+        <Profession>AQA Egineer</Profession>
+        <PlaceOfWork>Global Lodgic</PlaceOfWork>
+    </Work>
+    <Other>
+        <hobby>
+            <value0>basketball</value0>
+            <value1>reading</value1>
+            <value2>swimming</value2>
+        </hobby>
+        <dog>true</dog>>
+    </Other>
+</Person>
